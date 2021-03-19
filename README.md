@@ -12,4 +12,4 @@ ___
  - 24/7 Dedicated hosting for a single centralized server
  - Custom cleint server support (for private games with friends)
 ___
-Open Source MIT License
+Open Source [MIT License](https://github.com/LikeToAccess/DeusWare/blob/main/LICENSE)

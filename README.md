@@ -10,6 +10,6 @@ ___
  - Multiplayer suppor coming soon
  - Multi-threaded client and server
  - 24/7 Dedicated hosting for a single centralized server
- - Custom cleint server support (for private games with friends)
+ - Custom client server support (for private games with friends)
 ___
 Open Source [MIT License](https://github.com/LikeToAccess/DeusWare/blob/main/LICENSE) Copyright (c) 2021 LTA
